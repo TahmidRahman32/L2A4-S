@@ -5,7 +5,7 @@ import SVG from "./svg/SVG";
 
 const Nav = () => {
    return (
-      <div className="flex items-center justify-between mb-16 bg-neutral-500 py-5 px-8 rounded-full">
+      <div className="flex items-center justify-between my-10 bg-neutral-500  px-8 rounded-full">
          <div>
             <h2 className="text-xl font-bold">
                <SVG></SVG>{" "}

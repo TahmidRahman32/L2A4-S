@@ -29,23 +29,12 @@ Aggregated view of borrowed books.
 
 Columns: Title, ISBN, Total Borrowed.
 
-📄 Pages
+# Live Link
 
-/books – All books list + actions.
-
-/create-book – Add new book.
-
-/books/:id – Book details.
-
-/edit-book/:id – Edit book.
-
-/borrow/:bookId – Borrow a book.
-
-/borrow-summary – Borrowed books summary.
+Link: https://client-a4c.vercel.app
 
 🎨 UI/UX
 
-Clean, minimal, and responsive.
 
 Built with Tailwind CSS.
 
